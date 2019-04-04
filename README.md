@@ -1,2 +1,2 @@
 # Chat-App
-A simple chat room app using Node and Socket.
+A simple chat room app using Nodejs and Socket.io.
